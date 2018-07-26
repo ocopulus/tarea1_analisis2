@@ -23,6 +23,6 @@ public class Suma{
   }
 
   public void sumarNumeros(){
-         
+    System.out.println("La suma del primer numero: "+getNum1()+" y del segundo numero: "+getNum2()+ "es: " + (getNum1() + getNum2()));
   }
 }
